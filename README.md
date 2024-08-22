@@ -6,7 +6,8 @@
 
 
 
-## 📖 About Me
+<h2 style="border-bottom: none;">📖 About Me</h2>
+
 
 I am Amir, a front-end developer with experience in web development 👨‍💻  
 I was born in Iran and I'm 17 years old. I started programming about 3 years ago and I'm striving to reach the level I desire (I'm sure you can guess 😜).  
