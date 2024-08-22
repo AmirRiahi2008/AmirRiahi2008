@@ -8,6 +8,7 @@
 
 I am Amir, a front-end developer with experience in web development 👨‍💻  
 I was born in Iran and I'm 17 years old. I started programming about 3 years ago and I'm striving to reach the level I desire (I'm sure you can guess 😜).  
+
 I am passionate about learning and improving my skills in the world of web development and creating engaging user experiences.  
 I look forward to working with you on various projects and facing exciting challenges!
 
@@ -37,5 +38,5 @@ I look forward to working with you on various projects and facing exciting chall
 
 <div>
   <img src="https://img.icons8.com/color/48/000000/usa.png" width="52" height="52" alt="English" />
-  <img src="https://img.icons8.com/color/48/000000/iran.png" width="52" height="50" alt="Persian" />
+  <img src="https://img.icons8.com/color/48/000000/iran.png" width="52" height="48" alt="Persian" />
 </div>
