@@ -1,4 +1,4 @@
-<h1 align="center" style="padding-top: 40px; padding-bottom: 40px;">
+<h1 align="center" style="padding-top: 80px; padding-bottom: 80px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6000&pause=2000&color=F7F7F7&repeat=true&width=435&separator=%3C&lines=I+Am+Amir+👨‍💻" alt="Typing SVG" />
   </a>
