@@ -21,7 +21,7 @@ I look forward to working with you on various projects and facing exciting chall
 
 ## 🌐 Social Media
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/mani-ramezanpour/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
@@ -38,7 +38,7 @@ I look forward to working with you on various projects and facing exciting chall
 
 ## 🌍 Languages
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/flags/united-kingdom/default.svg" width="52" height="40" alt="English" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/flags/iran/default.svg" width="52" height="40" alt="Persian" />
+<div>
+  <img src="https://img.icons8.com/color/48/000000/usa.png" width="52" height="40" alt="English" />
+  <img src="https://img.icons8.com/color/48/000000/iran.png" width="52" height="40" alt="Persian" />
 </div>
