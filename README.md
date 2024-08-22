@@ -23,7 +23,7 @@ I look forward to working with you on various projects and facing exciting chall
 ## 🌐 Social Media
 
 <div>
-  <a href="https://www.linkedin.com/in/mani-ramezanpour/" target="_blank">
+  <a href="[https://www.linkedin.com/in/mani-ramezanpour/](https://www.linkedin.com/in/amirreza-riahi-106a51304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:amirreza.riahi2087@gmail.com" target="_blank">
@@ -37,6 +37,6 @@ I look forward to working with you on various projects and facing exciting chall
 ## 🌍 Languages
 
 <div>
-  <img src="https://img.icons8.com/color/48/000000/usa.png" width="52" height="52" alt="English" />
-  <img src="https://img.icons8.com/color/48/000000/iran.png" width="52" height="48" alt="Persian" />
+  <img src="https://img.icons8.com/color/48/000000/usa.png" width="52" height="51" alt="English" />
+  <img src="https://img.icons8.com/color/48/000000/iran.png" width="52" height="51" alt="Persian" />
 </div>
