@@ -36,6 +36,6 @@ I look forward to working with you on various projects and facing exciting chall
 ## 🌍 Languages
 
 <div>
-  <img src="https://img.icons8.com/color/48/000000/usa.png" width="52" height="40" alt="English" />
-  <img src="https://img.icons8.com/color/48/000000/iran.png" width="52" height="40" alt="Persian" />
+  <img src="https://img.icons8.com/color/48/000000/usa.png" width="52" height="50" alt="English" />
+  <img src="https://img.icons8.com/color/48/000000/iran.png" width="52" height="50" alt="Persian" />
 </div>
