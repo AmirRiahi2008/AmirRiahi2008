@@ -1,15 +1,11 @@
-<h1>
+<div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6000&pause=2000&color=F7F7F7&repeat=true&width=435&separator=%3C&lines=I+Am+Amir+👨‍💻" alt="Typing SVG" />
   </a>
-</h1>
-
-
-<div>
-<h2 style="border-bottom: none;">📖 About Me</h2>
-  
 </div>
 
+
+## 📖 About Me
 
 I am Amir, a front-end developer with experience in web development 👨‍💻  
 I was born in Iran and I'm 17 years old. I started programming about 3 years ago and I'm striving to reach the level I desire (I'm sure you can guess 😜).  
