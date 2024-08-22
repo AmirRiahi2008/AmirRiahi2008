@@ -13,7 +13,7 @@ I look forward to working with you on various projects and facing exciting chall
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,wordpress,php,tailwind)](https://skillicons.dev)
 
 ## 🛠️ Software Tools
 
