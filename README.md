@@ -13,7 +13,7 @@ I was born in Iran and I'm 17 years old. I started programming about 3 years ago
 I am passionate about learning and improving my skills in the world of web development and creating engaging user experiences.  
 I look forward to working with you on various projects and facing exciting challenges!
 
-You can follow me on **[LinkedIn](https://www.linkedin.com/in/amirreza-riahi-106a51304/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
+You can follow me on <a target="_blank" href="https://www.linkedin.com/in/amirreza-riahi-106a51304/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
 ## 🚀 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,php,wordpress,html,css,tailwind,react,nextjs,redux)](https://skillicons.dev)
