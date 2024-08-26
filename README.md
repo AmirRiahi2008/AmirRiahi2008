@@ -1,5 +1,5 @@
-![masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<div align="center">
+
+<div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6000&pause=2000&color=F7F7F7&repeat=true&width=435&separator=%3C&lines=I+Am+Amir+👨‍💻" alt="Typing SVG" />
   </a>
