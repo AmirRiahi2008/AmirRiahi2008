@@ -18,7 +18,7 @@ You can follow me on [Linkedin](https://www.linkedin.com/in/amirreza-riahi-106a5
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,wordpress,html,css,tailwind,react,nextjs,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,html,css,tailwind,react,nextjs,redux)](https://skillicons.dev)
 
 ## 🛠️ Software Tools
 
