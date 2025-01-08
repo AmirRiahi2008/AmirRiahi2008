@@ -30,10 +30,10 @@ You can follow me on [Linkedin](https://www.linkedin.com/in/amirreza-riahi-106a5
   <a target="_blank" href="https://www.linkedin.com/in/amirreza-riahi-106a51304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:amirreza.riahi2087@gmail.com" target="_blank">
+  <a target="_blank" href="mailto:amirreza.riahi2087@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://t.me/AmirRh2087" target="_blank">
+  <a target="_blank" href="https://t.me/AmirRh2087">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
