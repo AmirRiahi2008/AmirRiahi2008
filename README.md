@@ -18,11 +18,11 @@ You can follow me on [Linkedin](https://www.linkedin.com/in/amirreza-riahi-106a5
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,nuxtjs,php,mysql,python,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,nuxtjs,php,mysql,python,cs)](https://skillicons.dev)
 
 ## 🛠️ Software Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vs,xd,photoshop,git,github,gitlab,vite,phpmyadmin,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,xd,photoshop,git,github,gitlab,vite,phpmyadmin,pycharm)](https://skillicons.dev)
 
 ## 🌐 Social Media
 
