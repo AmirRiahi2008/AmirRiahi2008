@@ -22,7 +22,7 @@ You can follow me on [Linkedin](https://www.linkedin.com/in/amirreza-riahi-106a5
 
 ## 🛠️ Software Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,xd,photoshop,git,github,gitlab,vite,phpmyadmin,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,xd,photoshop,git,github,gitlab,vite,pycharm)](https://skillicons.dev)
 
 ## 🌐 Social Media
 
