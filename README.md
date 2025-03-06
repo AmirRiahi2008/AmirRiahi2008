@@ -18,7 +18,7 @@ You can follow me on [Linkedin](https://www.linkedin.com/in/Amir-reza-Riahi)
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,nuxtjs,php,mysql,python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,nuxtjs,php,mysql,cs,python)](https://skillicons.dev)
 
 ## 🛠️ Software Tools
 
