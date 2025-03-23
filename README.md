@@ -8,11 +8,12 @@
 
 ## 📖 About Me
 
-I am Amir, a front-end developer with experience in web development 👨‍💻  
-I was born in Iran and I'm 17 years old. I started programming about 3 years ago and I'm striving to reach the level I desire (I'm sure you can guess 😜).  
-
-I am passionate about learning and improving my skills in the world of web development and creating engaging user experiences.  
-I look forward to working with you on various projects and facing exciting challenges!
+Hi there 🖐🏼
+I'm Amirreza, a web developer.
+I was born in 2008 and started programming in 2022.
+Currently, I work in the web development field and have a strong passion for debugging and solving complex challenges with new technologies.
+My goal is to become Number 1 in my field and achieve the position of Full Stack Developer.
+I'm also interested in collaborating with your project or company 😉👨🏼‍💻
 
 You can follow me on [Linkedin](https://www.linkedin.com/in/Amir-reza-Riahi)
 
