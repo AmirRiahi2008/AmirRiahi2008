@@ -13,7 +13,7 @@ I'm Amirreza, a web developer.<br>
 I was born in 2008 and started programming in 2022.<br>
 I'm passionate about technology and always eager to learn new skills.<br>
 I started with simple programming languages, but over time, I realized that web development and solving complex challenges are what truly excite me.<br>
-I love debugging and solving technical issues, always striving to find the best solutions.<br>
+I like debugging and solving technical issues, always striving to find the best solutions.<br>
 My goal is to become a Full Stack Developer and expand my expertise in all areas of web development.<br>
 I'm always looking for ways to improve my skills and grow both personally and professionally.<br>
 I'm also passionate about collaborating with different teams and contributing to challenging projects.<br>
