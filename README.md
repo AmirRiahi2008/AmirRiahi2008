@@ -11,9 +11,14 @@
 Hi there 🖐🏼
 I'm Amirreza, a web developer.
 I was born in 2008 and started programming in 2022.
-Currently, I work in the web development field and have a strong passion for debugging and solving complex challenges with new technologies.
-My goal is to become Number 1 in my field and achieve the position of Full Stack Developer.
-I'm also interested in collaborating with your project or company 😉👨🏼‍💻
+I'm passionate about technology and always eager to learn new skills.
+I started with simple programming languages, but over time, I realized that web development and solving complex challenges are what truly excite me.
+I love debugging and solving technical issues, always striving to find the best solutions.
+My goal is to become a Full Stack Developer and expand my expertise in all areas of web development.
+I'm always looking for ways to improve my skills and grow both personally and professionally.
+I'm also passionate about collaborating with different teams and contributing to challenging projects.
+My ultimate goal is to become Number 1 in the web development field and make a positive impact on the industry.
+"Write clean code, live a simple life"
 
 You can follow me on [Linkedin](https://www.linkedin.com/in/Amir-reza-Riahi)
 
