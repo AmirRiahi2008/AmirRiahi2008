@@ -25,7 +25,7 @@ You can follow me on [Linkedin](https://www.linkedin.com/in/Amir-reza-Riahi)
 
 ## 🛠️ Software Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,git,github,gitlab,vite,postman,pycharm,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,git,github,gitlab,vite,npm,postman,vercel,netlify,pycharm,notion)](https://skillicons.dev)
 
 ## 🌐 Social Media
 
