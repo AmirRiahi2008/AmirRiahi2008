@@ -3,8 +3,6 @@
 
 
 
-## 📖 About Me
-
 # 👋 Hello and welcome
 
 I'm **Amirreza Riahi**, a full stack web developer with **+5 years of hands-on experience** 👨🏻‍💻 in software engineering, specializing in modern web technologies and scalable system architecture.
@@ -18,8 +16,6 @@ Engaging with expert minds and staying aligned with the latest advancements in t
 My goal is simple: to **elevate my craft**, continuously refine my skills, and **never stop learning**.
 
 > **“Write code so clean, even silence listens.”** ✨
-
----
 
 ### 📎 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/Amir-reza-Riahi) <br>
