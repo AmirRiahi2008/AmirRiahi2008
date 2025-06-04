@@ -3,7 +3,7 @@
 
 
 
-# 👋 Hello and welcome
+# 💼 About Me
 
 I'm **Amirreza Riahi**, a full stack web developer with **+5 years of hands-on experience** 👨🏻‍💻 in software engineering, specializing in modern web technologies and scalable system architecture.
 
