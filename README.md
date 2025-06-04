@@ -7,7 +7,7 @@
 
 # 👋 Hello and welcome
 
-I'm **Amirreza Riahi**, a web developer with **+5 years of hands-on experience** 👨🏻‍💻 in software engineering, specializing in modern web technologies and scalable system architecture.
+I'm **Amirreza Riahi**, a full stack web developer with **+5 years of hands-on experience** 👨🏻‍💻 in software engineering, specializing in modern web technologies and scalable system architecture.
 
 Throughout my career, I’ve focused on building efficient, maintainable, and future-proof web applications. My development philosophy revolves around clean code, structured design, and solving real-world problems through smart, elegant solutions 💡.
 
