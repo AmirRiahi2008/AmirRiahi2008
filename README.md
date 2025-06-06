@@ -24,11 +24,11 @@ My goal is simple: to **elevate my craft**, continuously refine my skills, and *
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,php,mysql,cs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,laravel,php,mysql,cs,python,git)](https://skillicons.dev)
 
 ## 🛠️ Software Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,git,github,gitlab,vite,postman,vercel,netlify,pycharm,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,gitlab,vite,postman,vercel,netlify,pycharm,notion)](https://skillicons.dev)
 
 ## 🌐 Social Media
 
