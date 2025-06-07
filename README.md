@@ -43,10 +43,3 @@ My goal is simple: to **elevate my craft**, continuously refine my skills, and *
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
-
-## 🌍 Languages
-
-<div>
-  <img src="https://img.icons8.com/color/48/000000/usa.png" width="52" height="51" alt="English" />
-  <img src="https://img.icons8.com/color/48/000000/iran.png" width="52" height="51" alt="Persian" />
-</div>
