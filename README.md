@@ -28,7 +28,7 @@ My goal is simple: to **elevate my craft**, continuously refine my skills, and *
 
 ## 🛠️ Software Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,gitlab,vite,postman,vercel,netlify,pycharm,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,gitlab,vite,postman,vercel,netlify,pycharm,notion,trello)](https://skillicons.dev)
 
 ## 🌐 Social Media
 
