@@ -32,7 +32,33 @@ My goal is simple: to **elevate my craft**, continuously refine my skills, and *
 
 ## 🌐 Social Media
 
-[🔗 LinkedIn](https://www.linkedin.com/in/amirreza-riahi-106a51304)
-[✉️ Gmail](mailto:amirreza.riahi2087@gmail.com)
-[📨 Telegram](https://t.me/AmirRh2087)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/amirreza-riahi-106a51304" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" /><br>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:amirreza.riahi2087@gmail.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail" /><br>
+        Gmail
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/AmirRh2087" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" alt="Telegram" /><br>
+        Telegram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spinner-loader-omega.vercel.app/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="40" height="40" alt="Demo" /><br>
+        Demo
+      </a>
+    </td>
+  </tr>
+</table>
+
 
